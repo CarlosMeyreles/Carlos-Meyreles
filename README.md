@@ -12,7 +12,6 @@ A results-driven cybersecurity professional with a passion for safeguarding crit
 My fascination with technology has fueled a deep passion for cybersecurity. I am continuously honing my skills and knowledge in this dynamic field, exploring various aspects of cyberspace. This page showcases my projects and ongoing efforts to develop my cybersecurity acumen, demonstrating my commitment to safeguarding critical information and enhancing organizational security.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -62,5 +61,5 @@ My fascination with technology has fueled a deep passion for cybersecurity. I am
 
 
 ## Projects
-- Detection Lab
+- JavaScript Car Generator 
 - SOC Automation Project
