@@ -17,10 +17,10 @@ My fascination with technology has fueled a deep passion for cybersecurity. I am
 |-----------------------------------------------|----------------------------|
 | JavaScript Programming Fundamentals           | <a href="https://github.com/CarlosMeyreles/Car-Generator-using-JavaScript/tree/main"> JavaScript Car Generator 
 | Python Programming Fundamentals  | <a href="https://github.com/CarlosMeyreles/Food-Generator-using-Python/tree/main"> Python Food Generator|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Network Scanning and Enumeration         |   <a href="https://github.com/CarlosMeyreles/Network-Vulnerability-Assessment/tree/main"> Network Vulnerability Assessment|
+| Vulnerability Assessment      | <a href="https://github.com/CarlosMeyreles/Network-Vulnerability-Assessment/tree/main"> Network Vulnerability Assessment|
+| Traffic Analysis                 | <a href="https://github.com/CarlosMeyreles/Network-Vulnerability-Assessment/tree/main"> Network Vulnerability Assessment|
+
 
 ## Tools
 
@@ -63,3 +63,4 @@ My fascination with technology has fueled a deep passion for cybersecurity. I am
 ## Projects
 - <a href="https://github.com/CarlosMeyreles/Car-Generator-using-JavaScript/tree/main"> JavaScript Car Generator
 - <a href="https://github.com/CarlosMeyreles/Food-Generator-using-Python/tree/main"> Python Food Generator
+- <a href="https://github.com/CarlosMeyreles/Network-Vulnerability-Assessment/tree/main"> Network Vulnerability Assessment
