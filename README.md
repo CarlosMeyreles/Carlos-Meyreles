@@ -16,7 +16,7 @@ My fascination with technology has fueled a deep passion for cybersecurity. I am
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | JavaScript Programming Fundamentals           | <a href="https://github.com/CarlosMeyreles/Car-Generator-using-JavaScript/tree/main"> JavaScript Car Generator 
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Python Programming Fundamentals  | <a href="https://github.com/CarlosMeyreles/Food-Generator-using-Python/tree/main"> Python Food Generator|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
@@ -61,5 +61,5 @@ My fascination with technology has fueled a deep passion for cybersecurity. I am
 
 
 ## Projects
-- JavaScript Car Generator 
-- SOC Automation Project
+- <a href="https://github.com/CarlosMeyreles/Car-Generator-using-JavaScript/tree/main"> JavaScript Car Generator
+- <a href="https://github.com/CarlosMeyreles/Food-Generator-using-Python/tree/main"> Python Food Generator
