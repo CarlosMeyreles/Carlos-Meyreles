@@ -20,6 +20,9 @@ My fascination with technology has fueled a deep passion for cybersecurity. I am
 | Network Scanning and Enumeration         |   <a href="https://github.com/CarlosMeyreles/Network-Vulnerability-Assessment/tree/main"> Network Vulnerability Assessment|
 | Vulnerability Assessment      | <a href="https://github.com/CarlosMeyreles/Network-Vulnerability-Assessment/tree/main"> Network Vulnerability Assessment|
 | Traffic Analysis                 | <a href="https://github.com/CarlosMeyreles/Network-Vulnerability-Assessment/tree/main"> Network Vulnerability Assessment|
+| Vulnerability Assessment                 | <a href="https://github.com/CarlosMeyreles/WLAN-and-Mobile-Security-Plan/tree/main"> WLAN and Mobile Security Plan|
+| Mitigation Strategies                 | <a href="https://github.com/CarlosMeyreles/WLAN-and-Mobile-Security-Plan/tree/main"> WLAN and Mobile Security Plan|
+| Preventative Measures Implementation                 | <a href="https://github.com/CarlosMeyreles/WLAN-and-Mobile-Security-Plan/tree/main"> WLAN and Mobile Security Plan|
 
 
 ## Tools
@@ -64,3 +67,4 @@ My fascination with technology has fueled a deep passion for cybersecurity. I am
 - <a href="https://github.com/CarlosMeyreles/Car-Generator-using-JavaScript/tree/main"> JavaScript Car Generator
 - <a href="https://github.com/CarlosMeyreles/Food-Generator-using-Python/tree/main"> Python Food Generator
 - <a href="https://github.com/CarlosMeyreles/Network-Vulnerability-Assessment/tree/main"> Network Vulnerability Assessment
+- <a href="https://github.com/CarlosMeyreles/WLAN-and-Mobile-Security-Plan/tree/main">
