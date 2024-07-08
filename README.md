@@ -67,4 +67,4 @@ My fascination with technology has fueled a deep passion for cybersecurity. I am
 - <a href="https://github.com/CarlosMeyreles/Car-Generator-using-JavaScript/tree/main"> JavaScript Car Generator
 - <a href="https://github.com/CarlosMeyreles/Food-Generator-using-Python/tree/main"> Python Food Generator
 - <a href="https://github.com/CarlosMeyreles/Network-Vulnerability-Assessment/tree/main"> Network Vulnerability Assessment
-- <a href="https://github.com/CarlosMeyreles/WLAN-and-Mobile-Security-Plan/tree/main">
+- <a href="https://github.com/CarlosMeyreles/WLAN-and-Mobile-Security-Plan/tree/main"> WLAN and Mobile Security 
