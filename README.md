@@ -60,8 +60,10 @@ My fascination with technology has fueled a deep passion for cybersecurity. I am
     <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
     <img src="https://img.shields.io/badge/-ITIL%20v4-FFD700?&style=for-the-badge&logo=PeopleCert&logoColor=white" />
     <img src="https://img.shields.io/badge/-Linux%20Essentials-FFA500?&style=for-the-badge&logo=Linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PenTest%2B-6B8E23?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CNVP-20B2AA?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CNSP-9932CC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
-
 
 ## Projects
 - <a href="https://github.com/CarlosMeyreles/Car-Generator-using-JavaScript/tree/main"> JavaScript Car Generator
