@@ -27,6 +27,15 @@ My fascination with technology has fueled a deep passion for cybersecurity. I am
 
 ## Tools
 
+### AWS Services
+<div>
+     <img src="https://img.shields.io/badge/-AWS IAM-232F3E?&style=for-the-badge&logo=amazonaws&logoColor=white" />
+     <img src="https://img.shields.io/badge/-Amazon S3-569A31?&style=for-the-badge&logo=amazonaws&logoColor=white" />
+     <img src="https://img.shields.io/badge/-Amazon EC2-FF9900?&style=for-the-badge&logo=amazonaws&logoColor=white" />
+     <img src="https://img.shields.io/badge/-AWS CLI-232F3E?&style=for-the-badge&logo=aws&logoColor=white" />
+     <img src="https://img.shields.io/badge/-Policy Simulator-5A5A5A?&style=for-the-badge&logo=AmazonAWS&logoColor=white" />
+</div>
+
 ### Network
 <div>
      <img src="https://img.shields.io/badge/-Nmap-6A5ACD?&style=for-the-badge&logo=Nmap&logoColor=white" />
@@ -66,6 +75,7 @@ My fascination with technology has fueled a deep passion for cybersecurity. I am
 </div>
 
 ## Projects
+- <a href="https://github.com/CarlosMeyreles/IAM-Least-Privilege-Lab"> IAM Least Privilege Lab
 - <a href="https://github.com/CarlosMeyreles/Car-Generator-using-JavaScript/tree/main"> JavaScript Car Generator
 - <a href="https://github.com/CarlosMeyreles/Food-Generator-using-Python/tree/main"> Python Food Generator
 - <a href="https://github.com/CarlosMeyreles/Network-Vulnerability-Assessment/tree/main"> Network Vulnerability Assessment
