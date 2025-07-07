@@ -1,60 +1,81 @@
 # Hello, I'm Carlos 
 <a href="https://www.linkedin.com/in/carlosmeyreles/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+Aspiring Cloud Security Engineer with a solid foundation in SOC operations, threat detection, and cloud infrastructure. I hold certifications including SSCP, PenTest+, CySA+, Security+, ITIL v4, and Linux Essentials, and bring hands-on experience with tools like CrowdStrike, Microsoft Sentinel, and Splunk. I’ve built and secured virtualized environments, implemented IAM least privilege policies in AWS, and routinely analyze real-world incidents in a SOC setting. I'm passionate about building secure, scalable cloud environments using automation and cloud-native controls, with a long-term goal of driving cloud security architecture for modern enterprises.
 
-
-A results-driven cybersecurity professional with a passion for safeguarding critical information and enhancing organizational security. Seeking to leverage leadership experience, technical skills, and certifications to mitigate risks and streamline operations in a dynamic environment.
 
 
 ## Objective
 
+As a cybersecurity professional with real-world SOC experience, I’m driven by a deep commitment to securing cloud infrastructure and protecting organizations from evolving threats. My background spans threat detection, incident response, and cloud security implementation, with a strong focus on automation and least privilege access. This page showcases the projects, labs, and hands-on work that reflect my continued development as a security practitioner. Every project here demonstrates my passion for designing secure, scalable, and resilient systems that align with modern business needs.
 
-My fascination with technology has fueled a deep passion for cybersecurity. I am continuously honing my skills and knowledge in this dynamic field, exploring various aspects of cyberspace. This page showcases my projects and ongoing efforts to develop my cybersecurity acumen, demonstrating my commitment to safeguarding critical information and enhancing organizational security.
 
-## Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| JavaScript Programming Fundamentals           | <a href="https://github.com/CarlosMeyreles/Car-Generator-using-JavaScript/tree/main"> JavaScript Car Generator 
-| Python Programming Fundamentals  | <a href="https://github.com/CarlosMeyreles/Food-Generator-using-Python/tree/main"> Python Food Generator|
-| Network Scanning and Enumeration         |   <a href="https://github.com/CarlosMeyreles/Network-Vulnerability-Assessment/tree/main"> Network Vulnerability Assessment|
-| Vulnerability Assessment      | <a href="https://github.com/CarlosMeyreles/Network-Vulnerability-Assessment/tree/main"> Network Vulnerability Assessment|
-| Traffic Analysis                 | <a href="https://github.com/CarlosMeyreles/Network-Vulnerability-Assessment/tree/main"> Network Vulnerability Assessment|
-| Vulnerability Assessment                 | <a href="https://github.com/CarlosMeyreles/WLAN-and-Mobile-Security-Plan/tree/main"> WLAN and Mobile Security Plan|
-| Mitigation Strategies                 | <a href="https://github.com/CarlosMeyreles/WLAN-and-Mobile-Security-Plan/tree/main"> WLAN and Mobile Security Plan|
-| Preventative Measures Implementation                 | <a href="https://github.com/CarlosMeyreles/WLAN-and-Mobile-Security-Plan/tree/main"> WLAN and Mobile Security Plan|
+## Skills by Project
 
+| Project | Skills Demonstrated |
+|---------|---------------------|
+| [JavaScript Car Generator](https://github.com/CarlosMeyreles/Car-Generator-using-JavaScript/tree/main) | JavaScript programming fundamentals |
+| [Python Food Generator](https://github.com/CarlosMeyreles/Food-Generator-using-Python/tree/main) | Python programming fundamentals |
+| [Network Vulnerability Assessment](https://github.com/CarlosMeyreles/Network-Vulnerability-Assessment/tree/main) | Network scanning and enumeration, vulnerability assessment, traffic analysis |
+| [WLAN and Mobile Security Plan](https://github.com/CarlosMeyreles/WLAN-and-Mobile-Security-Plan/tree/main) | Vulnerability assessment, mitigation strategies, preventative measures implementation |
+| [IAM Least Privilege Lab](https://github.com/CarlosMeyreles/IAM-Least-Privilege-Lab) | IAM user and role management, scoped IAM policy creation, policy simulation and validation, EC2 role assumption, AWS CLI testing |
 
 ## Tools
 
-### AWS Services
+### 🛡️ Security Platforms & EDR
 <div>
-     <img src="https://img.shields.io/badge/-AWS IAM-232F3E?&style=for-the-badge&logo=amazonaws&logoColor=white" />
-     <img src="https://img.shields.io/badge/-Amazon S3-569A31?&style=for-the-badge&logo=amazonaws&logoColor=white" />
-     <img src="https://img.shields.io/badge/-Amazon EC2-FF9900?&style=for-the-badge&logo=amazonaws&logoColor=white" />
-     <img src="https://img.shields.io/badge/-AWS CLI-232F3E?&style=for-the-badge&logo=aws&logoColor=white" />
-     <img src="https://img.shields.io/badge/-Policy Simulator-5A5A5A?&style=for-the-badge&logo=AmazonAWS&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CrowdStrike-EF2D5E?&style=for-the-badge&logo=crowdstrike&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Microsoft%20Defender%20for%20Endpoint-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SentinelOne-000000?&style=for-the-badge&logo=sentinelone&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Carbon%20Black-3A3A3A?&style=for-the-badge&logo=vmware&logoColor=white" />
 </div>
 
-### Network
+### ☁️ Cloud Platforms & Services
 <div>
-     <img src="https://img.shields.io/badge/-Nmap-6A5ACD?&style=for-the-badge&logo=Nmap&logoColor=white" />
-     <img src="https://img.shields.io/badge/-Wireshark-1E90FF?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-     <img src="https://img.shields.io/badge/-IDS/IPS-556B2F?&style=for-the-badge&logo=shield&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Azure-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Snowflake-29B5E8?&style=for-the-badge&logo=snowflake&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Oracle%20VM%20VirtualBox-183A61?&style=for-the-badge&logo=virtualbox&logoColor=white" />
 </div>
 
-### Programming Languages
+### 📊 SIEM & Service Management
 <div>
-   <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
-        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=JavaScript&logoColor=white" />
-        <img src="https://img.shields.io/badge/-SQL-4479A1?&style=for-the-badge&logo=SQLite&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Microsoft%20Sentinel-5A5A5A?&style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ServiceNow-1C3552?&style=for-the-badge&logo=servicenow&logoColor=white" />
 </div>
 
-### Forensic Tools
+### 🔧 AWS-Specific Services
 <div>
-    <img src="https://img.shields.io/badge/-Autopsy-8A2BE2?&style=for-the-badge&logo=Autopsy&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AWS%20IAM-232F3E?&style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Amazon%20S3-569A31?&style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Amazon%20EC2-FF9900?&style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AWS%20CLI-232F3E?&style=for-the-badge&logo=aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Policy%20Simulator-5A5A5A?&style=for-the-badge&logo=AmazonAWS&logoColor=white" />
 </div>
+
+### 🌐 Network Analysis & Security
+<div>
+  <img src="https://img.shields.io/badge/-Nmap-6A5ACD?&style=for-the-badge&logo=Nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Wireshark-1E90FF?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/-IDS%2FIPS-556B2F?&style=for-the-badge&logo=shield&logoColor=white" />
+</div>
+
+### 💻 Programming, Querying & Scripting
+<div>
+  <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=JavaScript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-SQL-4479A1?&style=for-the-badge&logo=SQLite&logoColor=white" />
+  <img src="https://img.shields.io/badge/-KQL-326CE5?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</div>
+
+### 🔬 Forensics & Investigation
+<div>
+  <img src="https://img.shields.io/badge/-Autopsy-8A2BE2?&style=for-the-badge&logo=Autopsy&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Thunderbird-002147?&style=for-the-badge&logo=thunderbird&logoColor=white" />
+</div>
+
 
 ## Certifications
 
@@ -72,6 +93,7 @@ My fascination with technology has fueled a deep passion for cybersecurity. I am
     <img src="https://img.shields.io/badge/-PenTest%2B-6B8E23?&style=for-the-badge&logo=CompTIA&logoColor=white" />
     <img src="https://img.shields.io/badge/-CNVP-20B2AA?&style=for-the-badge&logo=CompTIA&logoColor=white" />
     <img src="https://img.shields.io/badge/-CNSP-9932CC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+     <img src="https://img.shields.io/badge/-SC--200-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
 ## Projects
