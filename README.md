@@ -1,7 +1,15 @@
 # Hello, I'm Carlos 
 <a href="https://www.linkedin.com/in/carlosmeyreles/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Aspiring Cloud Security Engineer with a solid foundation in SOC operations, threat detection, and cloud infrastructure. I hold certifications including SSCP, PenTest+, CySA+, Security+, ITIL v4, and Linux Essentials, and bring hands-on experience with tools like CrowdStrike, Microsoft Sentinel, and Splunk. I’ve built and secured virtualized environments, implemented IAM least privilege policies in AWS, and routinely analyze real-world incidents in a SOC setting. I'm passionate about building secure, scalable cloud environments using automation and cloud-native controls, with a long-term goal of driving cloud security architecture for modern enterprises.
+A Cybersecurity Operations Consultant with a focus on threat detection, response, purple team testing, and cloud security. I currently support enterprise security operations by triaging and investigating alerts across CrowdStrike, Microsoft Defender, Sentinel, Splunk, and ServiceNow. I also contribute to proactive threat hunts, tuning efforts, and purple team initiatives to close detection gaps and enhance incident response capabilities.
+
+With a foundation in cybersecurity, psychology, and business, I bring a well-rounded perspective to modern security challenges. I hold dual bachelor’s degrees—one in Cybersecurity and Information Assurance from Western Governors University and another in Psychology with a Business Management focus from Binghamton University.
+
+My certifications include Microsoft SC-200 (Security Operations Analyst), CompTIA Security+, CySA+, PenTest+, Network+, ITIL v4, SSCP, and Linux Essentials—validating both my hands-on experience and theoretical understanding across multiple security domains.
+
+Before transitioning into cybersecurity, I led operations at global advertising agencies like FCB Health and Havas Media, managing risk, strategy, and high-impact deliverables for major brands. Today, I apply that same level of business acumen to protecting digital environments and strengthening detection and response programs.
+
+I'm passionate about continuous learning, mentoring others, and helping organizations build resilient, threat-informed security operations. If you’d like to connect, collaborate, or chat about career paths in cybersecurity, feel free to reach out: carlosmeyreles21@gmail.com.
 
 
 
