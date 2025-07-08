@@ -26,6 +26,8 @@ As a cybersecurity professional with real-world SOC experience, I’m driven by 
 | [Network Vulnerability Assessment](https://github.com/CarlosMeyreles/Network-Vulnerability-Assessment/tree/main) | Network scanning and enumeration, vulnerability assessment, traffic analysis |
 | [WLAN and Mobile Security Plan](https://github.com/CarlosMeyreles/WLAN-and-Mobile-Security-Plan/tree/main) | Vulnerability assessment, mitigation strategies, preventative measures implementation |
 | [IAM Least Privilege Lab](https://github.com/CarlosMeyreles/IAM-Least-Privilege-Lab) | IAM user and role management, scoped IAM policy creation, policy simulation and validation, EC2 role assumption, AWS CLI testing |
+| [S3 Security Audit Project](https://github.com/CarlosMeyreles/S3-Security-Audit-Project/blob/main/README.md) | S3 bucket hardening, least privilege policy enforcement, IAM access testing, security misconfiguration detection, server access logging, compliance alignment (SOC 2, HIPAA, CIS) |
+
 
 ## Tools
 
@@ -57,6 +59,8 @@ As a cybersecurity professional with real-world SOC experience, I’m driven by 
   <img src="https://img.shields.io/badge/-AWS%20IAM-232F3E?&style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/-Amazon%20S3-569A31?&style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/-Amazon%20EC2-FF9900?&style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/-S3%20Bucket%20Policies-FF9900?&style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/-S3%20Access%20Logging-232F3E?&style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/-AWS%20CLI-232F3E?&style=for-the-badge&logo=aws&logoColor=white" />
   <img src="https://img.shields.io/badge/-Policy%20Simulator-5A5A5A?&style=for-the-badge&logo=AmazonAWS&logoColor=white" />
 </div>
@@ -103,9 +107,10 @@ As a cybersecurity professional with real-world SOC experience, I’m driven by 
 </div>
 
 ## Projects
+- <a href="https://github.com/CarlosMeyreles/S3-Security-Audit-Project/blob/main/README.md"> S3 Security Audit Lab
 - <a href="https://github.com/CarlosMeyreles/IAM-Least-Privilege-Lab"> IAM Least Privilege Lab
 - <a href="https://github.com/CarlosMeyreles/Car-Generator-using-JavaScript/tree/main"> JavaScript Car Generator
 - <a href="https://github.com/CarlosMeyreles/Food-Generator-using-Python/tree/main"> Python Food Generator
 - <a href="https://github.com/CarlosMeyreles/Network-Vulnerability-Assessment/tree/main"> Network Vulnerability Assessment
 - <a href="https://github.com/CarlosMeyreles/WLAN-and-Mobile-Security-Plan/tree/main"> WLAN and Mobile Security
-- <a href="https://github.com/CarlosMeyreles/S3-Security-Audit-Project/blob/main/README.md"> S3 Security Audit Lab
+
