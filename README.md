@@ -7,8 +7,6 @@ With a foundation in cybersecurity, psychology, and business, I bring a well-rou
 
 My certifications include Microsoft SC-200 (Security Operations Analyst), CompTIA Security+, CySA+, PenTest+, Network+, ITIL v4, SSCP, and Linux Essentials—validating both my hands-on experience and theoretical understanding across multiple security domains.
 
-Before transitioning into cybersecurity, I led operations at global advertising agencies like FCB Health and Havas Media, managing risk, strategy, and high-impact deliverables for major brands. Today, I apply that same level of business acumen to protecting digital environments and strengthening detection and response programs.
-
 I'm passionate about continuous learning, mentoring others, and helping organizations build resilient, threat-informed security operations. If you’d like to connect, collaborate, or chat about career paths in cybersecurity, feel free to reach out: carlosmeyreles21@gmail.com.
 
 
