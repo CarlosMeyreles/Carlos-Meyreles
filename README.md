@@ -107,4 +107,5 @@ As a cybersecurity professional with real-world SOC experience, I’m driven by 
 - <a href="https://github.com/CarlosMeyreles/Car-Generator-using-JavaScript/tree/main"> JavaScript Car Generator
 - <a href="https://github.com/CarlosMeyreles/Food-Generator-using-Python/tree/main"> Python Food Generator
 - <a href="https://github.com/CarlosMeyreles/Network-Vulnerability-Assessment/tree/main"> Network Vulnerability Assessment
-- <a href="https://github.com/CarlosMeyreles/WLAN-and-Mobile-Security-Plan/tree/main"> WLAN and Mobile Security 
+- <a href="https://github.com/CarlosMeyreles/WLAN-and-Mobile-Security-Plan/tree/main"> WLAN and Mobile Security
+- <a href="https://github.com/CarlosMeyreles/S3-Security-Audit-Project/blob/main/README.md"> S3 Security Audit Lab
