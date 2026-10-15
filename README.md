@@ -32,6 +32,8 @@ I build and secure cloud-native detection and response systems. My strengths sit
   <img src="https://img.shields.io/badge/-Microsoft%20Defender-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/-SentinelOne-000000?&style=for-the-badge&logo=sentinelone&logoColor=white" />
   <img src="https://img.shields.io/badge/-Carbon%20Black-3A3A3A?&style=for-the-badge&logo=vmware&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Security%20Command%20Center-4285F4?&style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Google%20SecOps%20(Chronicle)-4285F4?&style=for-the-badge&logo=googlecloud&logoColor=white" />
 </div>
 
 ### ☁️ Cloud Platforms & Services
@@ -45,8 +47,6 @@ I build and secure cloud-native detection and response systems. My strengths sit
 
 ### 🏗️ Cloud Security & Data Engineering
 <div>
-  <img src="https://img.shields.io/badge/-Security%20Command%20Center-4285F4?&style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Chronicle-4285F4?&style=for-the-badge&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/-Cloud%20IAM-4285F4?&style=for-the-badge&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/-Pub%2FSub-4285F4?&style=for-the-badge&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/-BigQuery-669DF6?&style=for-the-badge&logo=googlebigquery&logoColor=white" />
