@@ -9,12 +9,13 @@ My certifications include the Google Professional Security Operations Engineer, 
 
 ## Objective
 
-I build and secure cloud-native detection and response systems. My strengths sit at the intersection of detection engineering, security data pipelines, and cloud security architecture: routing and normalizing multi-source telemetry to the OCSF schema, provisioning infrastructure as code with Terraform, and turning raw logs into high-fidelity, low-noise detections. This page collects the hands-on projects and labs behind that work, from a Terraform-provisioned GCP detection pipeline to AWS IAM and S3 hardening labs. Each one is built to be production-minded: scoped, documented, and honest about its trade-offs.
+I build and secure cloud-native detection and response systems. My strengths sit at the intersection of detection engineering, security data pipelines, and cloud security architecture: routing and normalizing multi-source telemetry to the OCSF schema, provisioning infrastructure as code with Terraform, and turning raw logs into high-fidelity, low-noise detections. This page collects the hands-on projects and labs behind that work, from a Terraform-provisioned GCP detection pipeline and a CSPM auto-remediation tool with a read-only AI advisor agent to AWS IAM and S3 hardening labs. Each one is built to be production-minded: scoped, documented, and honest about its trade-offs.
 
 ## Skills by Project
 
 | Project | Skills Demonstrated |
 |---------|---------------------|
+| [GCP CSPM Automation](https://github.com/CarlosMeyreles/GCP-CSPM-Automation) | Cloud security posture management, safe auto-remediation (dry-run default, allowlist, idempotency, before/after audit trail), Terraform IaC with remote state, least-privilege IAM and keyless service account impersonation, Secret Manager, BigQuery audit logging, CI security gates with no cloud credentials (Checkov strict mode, gitleaks), 54 pytest unit tests, CIS Benchmark mapping, AI agent governance (read-only ADK and Gemini agent with tool allowlist, tool-call cap, schema-validated output, full audit log) |
 | [GCP Security Operations Pipeline](https://github.com/CarlosMeyreles/GCP-SecOps-Pipeline) | Detection engineering (brute force, off-hours API use, IAM privilege escalation), Terraform IaC, GCP log routing (Cloud Logging, Pub/Sub), BigQuery and OCSF data modeling, Cloud Functions in Python, Looker Studio dashboards, cost control |
 | [S3 Security Audit Project](https://github.com/CarlosMeyreles/S3-Security-Audit-Project/blob/main/README.md) | S3 bucket hardening, least privilege policy enforcement, IAM access testing, security misconfiguration detection, server access logging, compliance alignment (SOC 2, HIPAA, CIS) |
 | [IAM Least Privilege Lab](https://github.com/CarlosMeyreles/IAM-Least-Privilege-Lab) | IAM user and role management, scoped IAM policy creation, policy simulation and validation, EC2 role assumption, AWS CLI testing |
@@ -56,6 +57,11 @@ I build and secure cloud-native detection and response systems. My strengths sit
   <img src="https://img.shields.io/badge/-Cribl%20Edge-FF6A00?&style=for-the-badge&logo=cribl&logoColor=white" />
   <img src="https://img.shields.io/badge/-OCSF-5A5A5A?&style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/-GitOps-F05032?&style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Secret%20Manager-4285F4?&style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?&style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Checkov-5E50E6?&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Gitleaks-D32F2F?&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Google%20ADK%20%2B%20Gemini-4285F4?&style=for-the-badge&logo=googlegemini&logoColor=white" />
 </div>
 
 ### 📊 SIEM & Service Management
@@ -91,6 +97,7 @@ I build and secure cloud-native detection and response systems. My strengths sit
   <img src="https://img.shields.io/badge/-KQL-326CE5?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/-SPL-000000?&style=for-the-badge&logo=splunk&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=JavaScript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-pytest-0A9EDC?&style=for-the-badge&logo=pytest&logoColor=white" />
 </div>
 
 ### 🔬 Forensics & Investigation
@@ -116,6 +123,7 @@ I build and secure cloud-native detection and response systems. My strengths sit
 </div>
 
 ## Projects
+- [GCP CSPM Automation](https://github.com/CarlosMeyreles/GCP-CSPM-Automation)
 - [GCP Security Operations Pipeline](https://github.com/CarlosMeyreles/GCP-SecOps-Pipeline)
 - [S3 Security Audit Lab](https://github.com/CarlosMeyreles/S3-Security-Audit-Project/blob/main/README.md)
 - [IAM Least Privilege Lab](https://github.com/CarlosMeyreles/IAM-Least-Privilege-Lab)
